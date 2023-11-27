@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GOKULAKANNAN</h1>
+<h1 align="center">Hi 👋, I'm Gokulakannan</h1>
 <h3 align="center">Working as a Project engineer @wipro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegokulakannan&label=Profile%20views&color=0e75b6&style=flat" alt="thegokulakannan" /> </p>
